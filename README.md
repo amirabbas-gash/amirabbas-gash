@@ -53,7 +53,7 @@
 
 ## Contributions
 <p align="center">
-  <img src="https://github.com/amirabbas-gash/amirabbas-gash/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://raw.githubusercontent.com/amirabbas-gash/amirabbas-gash/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
