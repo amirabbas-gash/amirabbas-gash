@@ -8,10 +8,6 @@
 <!-- Profile Views & Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirabbas-gash&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amirabbas-gash?color=70A5FD&label=Followers&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/amirabbas-gash?color=70A5FD&label=Stars&style=flat-square" alt="Stars" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-70A5FD?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Loves-Coffee-70A5FD?style=flat-square" alt="Coffee" />
 </p>
 
 ---
@@ -49,12 +45,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirabbas-gash&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
-## Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirabbas-gash/amirabbas-gash/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
