@@ -16,22 +16,20 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Working on **AI-powered tools & RAG systems**
-- 🌱 Learning **LangChain, Deep Learning, and Cloud Deployment**
-- 🎯 Goal: Build projects that solve **real-world problems**
-- ⚡ Fun fact: I can debug for hours without realizing the time
+##  About Me
+- Working on **AI-powered tools**
+-  Goal: Build projects that solve **real-world problems**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,html,css,fastapi,streamlit,docker,mongodb,mysql,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirabbas-gash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirabbas-gash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -39,14 +37,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amirabbas-gash&theme=tokyonight&no-frame=true&margin-w=5&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+##  Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirabbas-gash&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
@@ -60,14 +58,14 @@
 
 ---
 
-## 🐍 Contributions
+## Contributions
 <p align="center">
   <img src="https://github.com/amirabbas-gash/amirabbas-gash/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/amirabbas-g-3a8591197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amirabbasgashtil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
