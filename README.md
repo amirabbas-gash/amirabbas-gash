@@ -12,9 +12,7 @@
 
 ---
 
-##  About Me
 - Working on **AI-powered tools**
--  Goal: Build projects that solve **real-world problems**
 
 ---
 
