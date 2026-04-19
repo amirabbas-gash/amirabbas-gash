@@ -5,13 +5,6 @@
 
 ---
 
-<!-- Profile Views & Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirabbas-gash&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 - Working on **AI-powered tools**
 
 ---
